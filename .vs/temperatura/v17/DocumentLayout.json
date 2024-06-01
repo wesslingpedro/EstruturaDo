@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CURSO C# UDEMY\\EntradaDeDados\\temperatura\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DBE53BA8-153C-46ED-9AD3-A37BD63A75C8}|temperatura\\temperatura.csproj|d:\\curso c# udemy\\entradadedados\\temperatura\\temperatura\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBE53BA8-153C-46ED-9AD3-A37BD63A75C8}|temperatura\\temperatura.csproj|solutionrelative:temperatura\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\CURSO C# UDEMY\\EntradaDeDados\\temperatura\\temperatura\\Program.cs",
+              "RelativeDocumentMoniker": "temperatura\\Program.cs",
+              "ToolTip": "D:\\CURSO C# UDEMY\\EntradaDeDados\\temperatura\\temperatura\\Program.cs",
+              "RelativeToolTip": "temperatura\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T13:21:26.844Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

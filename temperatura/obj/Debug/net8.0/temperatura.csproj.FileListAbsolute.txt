@@ -1,0 +1,14 @@
+D:\CURSO C# UDEMY\EntradaDeDados\temperatura\temperatura\bin\Debug\net8.0\temperatura.exe
+D:\CURSO C# UDEMY\EntradaDeDados\temperatura\temperatura\bin\Debug\net8.0\temperatura.deps.json
+D:\CURSO C# UDEMY\EntradaDeDados\temperatura\temperatura\bin\Debug\net8.0\temperatura.runtimeconfig.json
+D:\CURSO C# UDEMY\EntradaDeDados\temperatura\temperatura\bin\Debug\net8.0\temperatura.dll
+D:\CURSO C# UDEMY\EntradaDeDados\temperatura\temperatura\bin\Debug\net8.0\temperatura.pdb
+D:\CURSO C# UDEMY\EntradaDeDados\temperatura\temperatura\obj\Debug\net8.0\temperatura.GeneratedMSBuildEditorConfig.editorconfig
+D:\CURSO C# UDEMY\EntradaDeDados\temperatura\temperatura\obj\Debug\net8.0\temperatura.AssemblyInfoInputs.cache
+D:\CURSO C# UDEMY\EntradaDeDados\temperatura\temperatura\obj\Debug\net8.0\temperatura.AssemblyInfo.cs
+D:\CURSO C# UDEMY\EntradaDeDados\temperatura\temperatura\obj\Debug\net8.0\temperatura.csproj.CoreCompileInputs.cache
+D:\CURSO C# UDEMY\EntradaDeDados\temperatura\temperatura\obj\Debug\net8.0\temperatura.dll
+D:\CURSO C# UDEMY\EntradaDeDados\temperatura\temperatura\obj\Debug\net8.0\refint\temperatura.dll
+D:\CURSO C# UDEMY\EntradaDeDados\temperatura\temperatura\obj\Debug\net8.0\temperatura.pdb
+D:\CURSO C# UDEMY\EntradaDeDados\temperatura\temperatura\obj\Debug\net8.0\temperatura.genruntimeconfig.cache
+D:\CURSO C# UDEMY\EntradaDeDados\temperatura\temperatura\obj\Debug\net8.0\ref\temperatura.dll
